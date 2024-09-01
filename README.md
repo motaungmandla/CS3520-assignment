@@ -2,3 +2,4 @@ This is a digital circuit that takes two 2-bit binary numbers as inputs and comp
 
 
 Link to the illustrating video:https://youtu.be/pVwAfcW3-yU
+Link to the report :https://motaungmandla.github.io/CS3520-report
